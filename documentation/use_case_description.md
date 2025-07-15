@@ -44,7 +44,6 @@ The chatbot is successful if it can:
 - **Ollama**: For running a local large language model (Mistral)
 - **AnythingLLM**: For document ingestion, retrieval, and chatbot interface
 - **Nova Scotia Health PDFs and websites**: As the knowledge base
-- (Optional) **Python scraper**: To pull live ED wait time data into the chatbot’s context
 
 ---
 
