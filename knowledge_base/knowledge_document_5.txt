@@ -46,3 +46,19 @@ This resource is most helpful when:
 - Deciding between multiple facilities for the same service
 - Looking for locations with shorter wait times for specific procedures
 - Trying to understand typical wait times for different services
+
+Historical ED Wait Times (Nova Scotia Health Averages)
+
+Halifax Infirmary:
+- Average: 3.5 hours
+- Range: 2–6 hours
+- Busiest Times: 5–10 PM weekdays, Saturday mornings
+
+Dartmouth General:
+- Average: 2.5 hours
+- Range: 1.5–4 hours
+- Busiest: Sunday afternoons, weekday evenings
+
+Tips:
+- EDs are usually quieter between 2–7 AM
+- Monday and Friday are often busier than mid-week
